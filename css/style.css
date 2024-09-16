@@ -13,9 +13,12 @@ body {
     width: 200px;
     height: 150px;
 }
+.description{
+    color: #446878;
+}
 
 .menu-color{
-    color: #446878;
+    
 }
 
 p a {
