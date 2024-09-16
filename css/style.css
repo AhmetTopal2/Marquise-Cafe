@@ -9,9 +9,7 @@ body {
 .navbar{
     background-color: white;
 }
-.foto{
-    object-fit: contain;
-}
+
 .menu-color{
     color: #446878;
 }
