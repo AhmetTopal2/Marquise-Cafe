@@ -9,6 +9,10 @@ body {
 .navbar{
     background-color: white;
 }
+.foto{
+    width: 320px;
+    height: 240px;
+}
 
 .menu-color{
     color: #446878;
