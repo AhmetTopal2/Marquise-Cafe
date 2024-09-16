@@ -4,6 +4,10 @@ body {
 }
 .menu-item{
     background-color: #f3f3eb;
+    display: flex;
+    flex-direction: column;
+    
+    
     
 }
 .navbar{
@@ -15,11 +19,10 @@ body {
 }
 .description{
     color: #446878;
+    font-size: 14px;
 }
 
-.menu-color{
-    
-}
+
 
 p a {
     color: #FF6;
